@@ -1,5 +1,5 @@
 ![Alt text](img/logo-green-small-2x.png)
-
+- visite Natours Website : https://safouane01.github.io/
 # Description: 
 This is a front-end website for an imaginary tour company that specializes in nature tours. The website provides visitors with an interactive platform to explore various nature tours, view tour details, prices, and ratings, and book their desired tours.
 
@@ -34,3 +34,5 @@ This is a front-end website for an imaginary tour company that specializes in na
 -Mobile Version: 
 
 ![Alt text](img/mobile%20(2).png)
+
+- for better visualization visite : https://safouane01.github.io/
